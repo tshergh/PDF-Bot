@@ -22,7 +22,7 @@
       "value": "GCP_FILE.json",
       "required": true 
     },
-    "STRIPE_TOKEN": {
+    "GOOGLE_CREDENTIALS": {
       "description": "Get an token from stripe.com for receiving Donations 💰",
       "value": ""
     },
