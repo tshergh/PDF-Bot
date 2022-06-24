@@ -108,7 +108,7 @@ The bot uses [Datastore](https://cloud.google.com/datastore) on Google Cloud Pla
   - Upload your GCP Credentials in the root directory with name `GCP_FILE.json`
   - Click on the Below Deploy Button ✅
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrBotDeveloper/PDF-Bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tshergh/PDF-Bot/tree/master)
   
   - Enter the Ceredinials and Click in deploy.
   - After Deployment Completed Click on Manage App & Turn on the Dynos....
